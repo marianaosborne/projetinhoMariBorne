@@ -1,0 +1,174 @@
+{
+  "categorias": [
+    {
+      "titulo": "Arte",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#1dc2c2",
+      "link_extra": {
+        "text": "Pintando o 7",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Assoprar um dente de leão é mais difícil do que eu pensava",
+          "url": "https://www.youtube.com/watch?v=o065CVXuSA4"
+        },
+        {
+          "titulo": "Warm and Cool",
+          "url": "https://www.youtube.com/watch?v=9SKB1oKYTkM"
+        },
+        {
+          "titulo": "Watercolor Blockbuster",
+          "url": "https://www.youtube.com/watch?v=cx01ZSbDG0A"
+        },
+        {
+          "titulo": "Two Simple Water Reflection Approaches in Watercolor",
+          "url": "https://www.youtube.com/watch?v=_FmY0yPdiwY"
+        },
+        {
+          "titulo": "Watercolor Greens - how to mix natural looking greens",
+          "url": "https://www.youtube.com/watch?v=R7S_KvnxbXc"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Yoga & Espiritualidade",
+      "cor": "#1dc2c2",
+      "link_extra": {
+        "text": "Dessa vez não reencarno",
+        "url": "https://www.youtube.com/watch?v=Tq3nw-ZDuGA"
+      },
+      "videos": [
+        {
+          "titulo": "Can Happiness Come From the Ego?",
+          "url": "https://www.youtube.com/watch?v=Tq3nw-ZDuGA"
+        },
+        {
+          "titulo": "How to Maintain Peace & FEEL GOOD During Isolation",
+          "url": "https://www.youtube.com/watch?v=u4aNwgJoX7M&t=939s"
+        },
+        {
+          "titulo": "Yoga For Psoas | Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=JsE4csvlUfA"
+        },
+        {
+          "titulo": "Friday Night Guided Meditation | Ajahn Brahm | 31 January 2020",
+          "url": "https://www.youtube.com/watch?v=_RwZ6XrhxOo"
+        }, 
+        {
+          "titulo": "People Love at Their Level of Consciousness",
+          "url": "https://www.youtube.com/watch?v=3D5BorKyFfY&t=880s"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#1dc2c2",
+      "link_extra": {
+        "text": "Porque ninguém é de ferro também!",
+        "url": "https://www.youtube.com/watch?v=tC8631Kqzb0"
+      },
+      "videos": [
+        {
+          "titulo": "Pink Floyd - Coming Back To Life",
+          "url": "https://www.youtube.com/watch?v=tC8631Kqzb0"
+        },
+        {
+          "titulo": "Pink Floyd - High Hopes (Official Music Video HD)",
+          "url": "https://www.youtube.com/watch?v=7jMlFXouPk8"
+        },
+        {
+          "titulo": "Dream Theater - The Count Of Tuscany",
+          "url": "https://www.youtube.com/watch?v=vjoKyj51o_I"
+        },
+        {
+          "titulo": "Journey - Faithfully (Official Video)",
+          "url": "https://www.youtube.com/watch?v=OMD8hBsA-RI"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
